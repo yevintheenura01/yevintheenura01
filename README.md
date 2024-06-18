@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Yevin Theenura</h1>
 <h3 align="center">Passionate IT Student | Aspiring Developer | Lifelong Learner</h3>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br>
+
+- :school: I am a `Undergraduate ` at Faculty of Computing at [SLIIT](https://www.sliit.lk/).
+- 🌱 I’m currently learning **MERN stack**.
+- 📫 How to reach me **ytheenura5@gmail.com**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yevintheenura01" alt="yevintheenura01" /></a> </p>
 
-- 📫 How to reach me **ytheenura5@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
