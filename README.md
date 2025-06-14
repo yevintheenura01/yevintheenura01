@@ -8,7 +8,7 @@
 <br>
 
 - :school: I am a `Undergraduate` at Faculty of Computing at [SLIIT](https://www.sliit.lk/).
-- 🌱 I’m currently learning **MERN stack**.
+- 🌱 I’m currently learning **Python**.
 - 📫 How to reach me **ytheenura5@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yevintheenura01" alt="yevintheenura01" /></a> </p>
